@@ -1,0 +1,63 @@
+import java.util.*;
+public class MeanMedianModeCalculator
+{
+    public static void main(String[] args)
+    {
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Enter the number of elements: ");
+        int n = scanner.nextInt();
+        System.out.print("Enter the elements separated by spaces: ");
+        int[] dataset = new int[n];
+        for (int i = 0; i < n; i++)
+        {
+            dataset[i] = scanner.nextInt();
+        }
+        double mean = calculateMean(dataset);
+        double median = calculateMedian(dataset);
+        int mode = calculateMode(dataset);
+        System.out.println("Mean: " + mean);
+        System.out.println("Median: " + median);
+        System.out.println("Mode: " + mode);
+    }
+    public static double calculateMean(int[] dataset)
+    {
+        int sum = 0;
+        for (int num : dataset)
+        {
+            sum += num;
+        }
+        return (double) sum / dataset.length;
+    }
+    public static double calculateMedian(int[] dataset) 
+    {
+        Arrays.sort(dataset);
+        int middle = dataset.length / 2;
+        if (dataset.length % 2 == 0)
+        {
+            return (double) (dataset[middle - 1] + dataset[middle]) / 2;
+        } 
+        else
+         {
+            return (double) dataset[middle];
+        }
+    }
+    public static int calculateMode(int[] dataset) 
+    {
+        Map<Integer, Integer> frequencyMap = new HashMap<>();
+        for (int num : dataset)
+        {
+            frequencyMap.put(num, frequencyMap.getOrDefault(num, 0) + 1);
+        }
+        int mode = 0;
+        int maxFrequency = 0;
+        for (Map.Entry<Integer, Integer> entry : frequencyMap.entrySet()) 
+        {
+            if (entry.getValue() > maxFrequency)
+        {
+                maxFrequency = entry.getValue();
+                mode = entry.getKey();
+            }
+        }
+        return mode;
+    }
+}
