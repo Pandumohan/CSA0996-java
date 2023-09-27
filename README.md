@@ -1,0 +1,6 @@
+# CSA0996-java
+//1.REVERSING A STRING
+OUTPUT:![JAVA 1](https://github.com/Pandumohan/CSA0996-java/assets/115144239/32419b3e-4be2-4f0e-9f8a-31909e5ed718)
+
+//2.STRING TO INTEGER
+OUTPUT:
