@@ -17,5 +17,16 @@ OUTPUT:![java 5](https://github.com/Pandumohan/CSA0996-java/assets/115144239/bbd
 //6.VOWELS COUNT
 OUTPUT:![java 6](https://github.com/Pandumohan/CSA0996-java/assets/115144239/491798b0-4f7a-4db2-9a0e-ce28c7dd2040)
 
+//7.SEPARATELY PRINT OF CONSONANTS AND VOWELS
+
+OUTPUT:![java 7](https://github.com/Pandumohan/CSA0996-java/assets/115144239/ed5fdf51-2f83-4479-af6a-76ecb039e7e9)
+
+//19.PATTERN
+
+OUTPUT:![JAVA 19](https://github.com/Pandumohan/CSA0996-java/assets/115144239/ad7a97d9-34e8-4801-b8cf-55d8fabf08a7)
+
 //
+
+
+
 
