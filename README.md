@@ -18,8 +18,16 @@ OUTPUT:![java 5](https://github.com/Pandumohan/CSA0996-java/assets/115144239/bbd
 OUTPUT:![java 6](https://github.com/Pandumohan/CSA0996-java/assets/115144239/491798b0-4f7a-4db2-9a0e-ce28c7dd2040)
 
 //7.SEPARATELY PRINT OF CONSONANTS AND VOWELS
-
 OUTPUT:![java 7](https://github.com/Pandumohan/CSA0996-java/assets/115144239/ed5fdf51-2f83-4479-af6a-76ecb039e7e9)
+
+//13.MERGE TWO SORTED ARRAYS
+OUTPUTS:![java 13](https://github.com/Pandumohan/CSA0996-java/assets/115144239/885acefc-be66-4e44-bc24-f62c1097f957)
+
+//16.RIGHT TRIANGLE PATTERN
+OUTPUT:![java 16](https://github.com/Pandumohan/CSA0996-java/assets/115144239/53b1f87a-8b24-4f7f-ad28-6be414b71e0d)
+
+//17.PATTERN
+
 
 //19.PATTERN
 
