@@ -21,34 +21,34 @@ OUTPUT:![java 6](https://github.com/Pandumohan/CSA0996-java/assets/115144239/491
 OUTPUT:![java 7](https://github.com/Pandumohan/CSA0996-java/assets/115144239/ed5fdf51-2f83-4479-af6a-76ecb039e7e9)
 
 //8.PRESENT IN STRING OR NOT
-OUTPUT:
+OUTPUT:![java 8](https://github.com/Pandumohan/CSA0996-java/assets/115144239/adde00ee-07ca-4cac-aecd-64615a1a86d1)
 
 //9.ARRANGE LETTERS IN ALPHABETIACALLY REVERSE ORDER
-OUTPUT:
+OUTPUT:![java 9](https://github.com/Pandumohan/CSA0996-java/assets/115144239/e1965748-a28f-4482-8811-05cf834e3985)
 
 //10.DISPLAY SAME STRING
-OUTPUT:
+OUTPUT:![java 10](https://github.com/Pandumohan/CSA0996-java/assets/115144239/38e36e7d-800b-4392-b1f3-f0fbaf0d7cc3)
 
 //11.MATRIX MULTIPLICATION
-OUTPUT:
+OUTPUT:![java 11](https://github.com/Pandumohan/CSA0996-java/assets/115144239/9cd7653d-817f-4b0f-957d-d4effb56627e)
 
 //12.MATRIX ADDITION
-OUTPUT:
+OUTPUT:![java 12](https://github.com/Pandumohan/CSA0996-java/assets/115144239/ce81ba54-206d-4d4b-aebf-e0de28bb071b)
 
 //13.MERGE TWO SORTED ARRAYS
 OUTPUTS:![java 13](https://github.com/Pandumohan/CSA0996-java/assets/115144239/885acefc-be66-4e44-bc24-f62c1097f957)
 
 //14.MEDIAN,MEAN,MODE 
-OUTPUT:
+OUTPUT:![JAVA 14](https://github.com/Pandumohan/CSA0996-java/assets/115144239/dc120e9c-85c9-4d42-a414-860dfe06d732)
 
 //15.COMPOSITE NUMBER IN AN ARRAY
-OUTPUT:
+OUTPUT:![java 15](https://github.com/Pandumohan/CSA0996-java/assets/115144239/594e3298-7a6e-45aa-bc20-2b4be4d218a9)
 
 //16.RIGHT TRIANGLE PATTERN
 OUTPUT:![java 16](https://github.com/Pandumohan/CSA0996-java/assets/115144239/53b1f87a-8b24-4f7f-ad28-6be414b71e0d)
 
 //17.PATTERN
-OUTPUT:
+OUTPUT:![java 17](https://github.com/Pandumohan/CSA0996-java/assets/115144239/f57a2601-26de-4c2d-aba1-1dafeba6393f)
 
 //18.RECTANGLE PATTERN
 OUTPUT:![java 18](https://github.com/Pandumohan/CSA0996-java/assets/115144239/6c895bac-ffbe-4713-88f7-26e5ffd7d755)
@@ -57,7 +57,7 @@ OUTPUT:![java 18](https://github.com/Pandumohan/CSA0996-java/assets/115144239/6c
 OUTPUT:![JAVA 19](https://github.com/Pandumohan/CSA0996-java/assets/115144239/ad7a97d9-34e8-4801-b8cf-55d8fabf08a7)
 
 //20.INVERTED FULL PYRAMID 
-OUTPUT:
+OUTPUT:![java 20](https://github.com/Pandumohan/CSA0996-java/assets/115144239/bcb60c94-00e3-45a0-b08a-9d11dffc820b)
 
 //21.% PATTERN
 OUTPUT:![java 21](https://github.com/Pandumohan/CSA0996-java/assets/115144239/042980c5-8327-4505-810c-3d5a6ec26f08)
@@ -68,6 +68,8 @@ OUTPUT:![java 22](https://github.com/Pandumohan/CSA0996-java/assets/115144239/82
 //23.1 22 333 4444 PATTERN
 OUTPUT:![java 23](https://github.com/Pandumohan/CSA0996-java/assets/115144239/a2f7d640-b39c-4f1e-a82e-926f2f55eb1a)
 
+//24.PATTERN
+OUTPUT:![java 24](https://github.com/Pandumohan/CSA0996-java/assets/115144239/a344139f-986f-47ef-a80a-ef5bc80948e1)
 
 
 
